@@ -1,7 +1,8 @@
 '''
 Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan
 tersebut tampilkan bilangan terbesarnya. Gunakan statement if
-x
+Uraikan langkah atau algoritmanya pada file README.md, sertakan juga flowchart
+dan screenshot hasil eksekusi program. Tampilkan 3 kondisi inputan data.
 '''
 a = int(input('Masukkan bilangan A: '))
 b = int(input('Masukkan bilangan B: '))
