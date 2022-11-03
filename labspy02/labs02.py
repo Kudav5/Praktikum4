@@ -8,7 +8,7 @@ b = int(input('Masukkan bilangan B: '))
 c = int(input('Masukkan bilangan C: '))
 
 if a>b:
-    print(a, 'lebih besar dari',b)
+    print(2, 'lebih besar dari',b)
 if a<b:
     print(a, 'lebih kecil dari',b)
 if a>c:
@@ -16,7 +16,7 @@ if a>c:
 if a<c:
     print(a, 'lebih kecil dari',c)
 if b>a:
-    print(b, 'lebih besar dari',b)
+    print(b, 'lebih besar dari',a)
 if b<a:
     print(b, 'lebih kecil dari',a)
 if b>c:
