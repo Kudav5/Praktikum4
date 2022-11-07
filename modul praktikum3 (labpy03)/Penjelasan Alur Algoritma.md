@@ -9,7 +9,7 @@ menyelesaikannya
 4. cetak variabel random
 contoh test pada output
 
-![p2](foto praktikum4/p2.png)
+![p2](foto_praktikum4/p2.png)
 
 ## latihan2
 Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan.
@@ -19,6 +19,6 @@ Masukkan angka 0 untuk berhenti.
 3. cetak bilangan terbesar
 contoh test pada output
 
-![mp3](foto praktikum4/mp3.png)
+![mp3](foto_praktikum4/mp3.png)
 
 ## program1
