@@ -4,31 +4,33 @@ tersebut tampilkan bilangan terbesarnya. Gunakan statement if
 Uraikan langkah atau algoritmanya pada file README.md, sertakan juga flowchart
 dan screenshot hasil eksekusi program. Tampilkan 3 kondisi inputan data.
 '''
+print ('Program mengurutkan data')
 a = int(input('Masukkan bilangan A: '))
 b = int(input('Masukkan bilangan B: '))
 c = int(input('Masukkan bilangan C: '))
 
 if a>b:
-    print(2, 'lebih besar dari',b)
-if a<b:
+    print(a, 'lebih besar dari',b)
+elif a<b:
     print(a, 'lebih kecil dari',b)
-if a>c:
+elif a>c:
     print(a, 'lebih besar dari',c)
-if a<c:
+elif a<c:
     print(a, 'lebih kecil dari',c)
-if b>a:
+elif b>a:
     print(b, 'lebih besar dari',a)
-if b<a:
+elif b<a:
     print(b, 'lebih kecil dari',a)
-if b>c:
+elif b>c:
     print(b, 'lebih besar dari',c)
-if b<c:
+elif b<c:
     print(b, 'lebih kecil dari',c)
-if c>a:
+elif c>a:
     print(c, 'lebih besar dari',a)
-if c<a:
+elif c<a:
     print(c, 'lebih kecil dari',a)
-if c>b:
+elif c>b:
     print(c, 'lebih besar dari',b)
-if c<b:
+elif c<b:
     print(c, 'lebih kecil dari',b)
+print('Urutan bilangan dari terkecil hingga terbesar: ')
