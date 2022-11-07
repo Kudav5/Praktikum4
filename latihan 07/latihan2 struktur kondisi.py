@@ -7,4 +7,4 @@ f = int(input('bilangan ke-5 : '))
 
 d = [a,b,c,e,f]
 d.sort()
-print('Urutan bilangan dari terkecil hingga terbesar: ',d)
+print('Urutan bilangan dari terkecil hingga terbesar: ')
