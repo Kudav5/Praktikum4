@@ -11,26 +11,25 @@ c = int(input('Masukkan bilangan C: '))
 
 if a>b:
     print(a, 'lebih besar dari',b)
-elif a<b:
+if a<b:
     print(a, 'lebih kecil dari',b)
-elif a>c:
+if a>c:
     print(a, 'lebih besar dari',c)
-elif a<c:
+if a<c:
     print(a, 'lebih kecil dari',c)
-elif b>a:
+if b>a:
     print(b, 'lebih besar dari',a)
-elif b<a:
+if b<a:
     print(b, 'lebih kecil dari',a)
-elif b>c:
+if b>c:
     print(b, 'lebih besar dari',c)
-elif b<c:
+if b<c:
     print(b, 'lebih kecil dari',c)
-elif c>a:
+if c>a:
     print(c, 'lebih besar dari',a)
-elif c<a:
+if c<a:
     print(c, 'lebih kecil dari',a)
-elif c>b:
+if c>b:
     print(c, 'lebih besar dari',b)
-elif c<b:
+if c<b:
     print(c, 'lebih kecil dari',b)
-print('Urutan bilangan dari terkecil hingga terbesar: ')
