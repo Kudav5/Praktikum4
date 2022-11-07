@@ -1,6 +1,6 @@
-a = input("angka a: ")
-b = input('angka b: ')
+a = int(input("angka a: "))
+b = int(input('angka b: '))
 if a > b:
     print('a lebih besar dari b')
-if a < b:
+elif a < b:
     print('b lebih besar dari a')
