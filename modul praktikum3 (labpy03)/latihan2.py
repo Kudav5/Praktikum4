@@ -1,8 +1,9 @@
 # modul 3
+d = 0
 while True:
     a = int(input('Masukkan bilangan / 0: '))
-    if a == 0:
+    if d < a:
+        d = a
+    if a==0:
         break
-    d = [a]
-d.sort()
-print('Urutan bilangan dari terkecil hingga terbesar: ',d)
+print('bilangan terbesar: ',d)
