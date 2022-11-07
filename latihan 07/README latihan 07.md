@@ -7,6 +7,7 @@ Tentukan bilangan terbesar dari kedua bilangan
 3. Dan juga penambahan elif dengan kondisi a < b
 contoh test pada output
 
+![sk1](foto praktikum4/sk1.png)
 
 ## latihan 2 struktur kondisi
 Mengurutkan data berdasarkan input sejumlah data
@@ -15,6 +16,7 @@ Mengurutkan data berdasarkan input sejumlah data
 3. tambahkan method .sort() pada 1 variabel untuk mengurutkan semua data terkecil ke terbesar
 contoh test pada output
 
+![sk2](foto praktikum4/sk2.png)
 
 ## latihan 1 perulangan
 Perulangan bertingkat (nested) for
@@ -24,6 +26,8 @@ Perulangan bertingkat (nested) for
 4. pada for loop kedua, cetak (i) dan (j) lalu tambahkan parameter end(fungsinya untuk menambahkan string apapun)
 contoh test pada output
 
+![p1](foto praktikum4/p1.png)
+
 ## latihan 2 perulangan
 Tampilkan n bilangan acak yang lebih kecil dari 0.5 dan bisa menggunakan kombinasi while dan for untuk 
 menyelesaikannya
@@ -32,3 +36,5 @@ menyelesaikannya
 3. Buat for loop dengan range dari variabel input
 4. cetak variabel random
 contoh test pada output
+
+![p2](foto praktikum4/p2.png)
